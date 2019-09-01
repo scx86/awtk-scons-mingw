@@ -15,7 +15,7 @@ build awtk with scons and mingw  on windows
   C:\zlgopen\awtk-scons-mingw\MinGW\bin
   ```
 
-  ![](docs\images\mingw_path.png)
+  ![mingw_path](docs/images/mingw_path.png)
 
 * 修改 awtk 的编译配置 awtk_config.py，使用 mingw 作为编译工具
 
